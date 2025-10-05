@@ -100,7 +100,7 @@ The data may appear structurally similar to actual datasets, but all dollar amou
 
 ## 🧭 Getting Started  
 1. Clone or download this repository.  
-2. Open the `.pbix` file in **Power BI Desktop**.  
+2. Open **`example_stats_report.pbix`** in **Power BI Desktop**.  
 3. Ensure `sample_data.xlsx` is in the same directory (or update the path in Power Query).  
 4. Refresh the model to load the data.  
 5. Hold **CTRL + Click** to interact with icons and buttons.
@@ -120,7 +120,7 @@ These resources demonstrate the visual planning process behind the report and ho
 
 | File | Description |
 |------|--------------|
-| `PowerBI_Example.pbix` | The Power BI example report |
+| `example_stats_report.pbix` | The Power BI example report |
 | `sample_data.xlsx` | Consolidated and anonymized dataset |
 | `images/` | PowerPoint layouts and design tips for dashboards |
 | `README.md` | Project documentation |
