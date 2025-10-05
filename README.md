@@ -17,6 +17,7 @@
 - [Data Disclaimer](#-data-disclaimer)  
 - [Skills Demonstrated](#-skills-demonstrated)  
 - [Getting Started](#-getting-started)  
+- [Dashboard Assets](#-dashboard-assets)  
 - [Repository Contents](#-repository-contents)  
 - [About](#-about)  
 
@@ -106,12 +107,22 @@ The data may appear structurally similar to actual datasets, but all dollar amou
 
 ---
 
+## 🖼️ Dashboard Assets  
+An **`images/`** folder is included in this repository containing:  
+- The **PowerPoint files** used to design the dashboard background layouts.  
+- Design **tips and notes** for dashboard composition and Power BI theme consistency.  
+
+These resources demonstrate the visual planning process behind the report and how layout, color, and spacing were considered to improve readability and usability.
+
+---
+
 ## 📁 Repository Contents  
 
 | File | Description |
 |------|--------------|
 | `PowerBI_Example.pbix` | The Power BI example report |
 | `sample_data.xlsx` | Consolidated and anonymized dataset |
+| `images/` | PowerPoint layouts and design tips for dashboards |
 | `README.md` | Project documentation |
 
 ---
