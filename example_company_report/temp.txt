@@ -1,0 +1,10 @@
+QuotePrice	ExtQuotePrice	Cost	ExtCost	MarkUp	Range	Range Sort
+
+ExtSalePrice	ExtCost
+
+
+ARAmt
+
+Freight
+
+depAmnt
