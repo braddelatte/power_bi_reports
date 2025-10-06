@@ -154,4 +154,3 @@ Demonstrating end-to-end analytics workflows using **SQL**, **Power Query**, and
 
 ---
 
-Would you like me to add a short **“Data Model Overview”** section (showing how the four tables relate — e.g., `Req` links to `Sales` and `Receivable` via `ProjectNum`)? That’s often a great touch for documentation or portfolio readers.
